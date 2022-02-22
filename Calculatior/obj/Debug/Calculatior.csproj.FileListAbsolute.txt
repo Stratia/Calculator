@@ -1,0 +1,10 @@
+C:\Users\treazure\source\repos\Calculatior\Calculatior\bin\Debug\Calculatior.exe.config
+C:\Users\treazure\source\repos\Calculatior\Calculatior\bin\Debug\Calculatior.exe
+C:\Users\treazure\source\repos\Calculatior\Calculatior\bin\Debug\Calculatior.pdb
+C:\Users\treazure\source\repos\Calculatior\Calculatior\obj\Debug\Calculatior.csproj.AssemblyReference.cache
+C:\Users\treazure\source\repos\Calculatior\Calculatior\obj\Debug\Calculatior.Form1.resources
+C:\Users\treazure\source\repos\Calculatior\Calculatior\obj\Debug\Calculatior.Properties.Resources.resources
+C:\Users\treazure\source\repos\Calculatior\Calculatior\obj\Debug\Calculatior.csproj.GenerateResource.cache
+C:\Users\treazure\source\repos\Calculatior\Calculatior\obj\Debug\Calculatior.csproj.CoreCompileInputs.cache
+C:\Users\treazure\source\repos\Calculatior\Calculatior\obj\Debug\Calculatior.exe
+C:\Users\treazure\source\repos\Calculatior\Calculatior\obj\Debug\Calculatior.pdb
